@@ -1,0 +1,4 @@
+#Sun May 01 18:14:36 PDT 2022
+base.0=C\:\\Users\\Aehli\\OneDrive\\Desktop\\Quintrix\\Quintrix-Android-HW\\Android\\FragmentExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

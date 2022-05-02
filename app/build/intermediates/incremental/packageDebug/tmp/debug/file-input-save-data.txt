@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 01 18:14:36 PDT 2022
+0.base=C\:\\Users\\Aehli\\OneDrive\\Desktop\\Quintrix\\Quintrix-Android-HW\\Android\\FragmentExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
